@@ -1,0 +1,12 @@
+# This file contains additional pkgconfig build requirements that did
+# not get picked up automatically. One name per line, no whitespace.
+RapidJSON
+jemalloc
+liblz4
+libutf8proc
+libzstd
+mimalloc
+nlohmann_json
+systemd
+thrift
+xsimd
